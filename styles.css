@@ -276,8 +276,8 @@ body {
 }
 
 .add-to-cart {
-    width: 32px;
-    height: 32px;
+    width: 26px;
+    height: 26px;
     border-radius: 8px;
     background: #F3BA00;
     color: white;
@@ -330,6 +330,7 @@ body {
 }
 .addcart{
     width: 70px;
+    height: 23px;
 }
 .carousel-nav:hover {
     background-color: white; 
